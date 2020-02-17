@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DYrstu</string>
+    <string name="hello_classroom_this_is_our_rst_demo_app_i_need_you_guys_to_recreate_it_and_add_some_extras_make_it_as_appealing_as_posible_youwill_notice_that_when_ypu_click_the_buttons_below_some_changes_happen_i_need_you_to_add_that_functionality_optional_if_you_succeed_in_making_the_app_100_thee_is_a_present">Hello classroom.This is our rst demo app .I need you guys to recreate it and add some extras. Make it as appealing as posible .Youwill notice that when ypu click the Buttons below some changes happen .I need you to add that functionality (optional)if you succeed in making the app 100%thee is a present.</string>
+    <string name="reset">Reset</string>
+    <string name="button">Button</string>
+</resources>
